@@ -12,7 +12,6 @@ Bem-vindo ao **Fotoblog**, um site incrível para explorar e compartilhar imagen
 ## 🌟 Funcionalidades
 
 - 📂 **Galeria interativa:** Explore imagens organizadas por temas e coleções.
-- 🔍 **Barra de busca:** Pesquise rapidamente imagens específicas.
 - 🎨 **Design responsivo:** Experiência otimizada para desktop e mobile.
 - 🚀 **Integração com APIs:** Utilize serviços como Unsplash ou Lorem Picsum.
 
@@ -33,7 +32,7 @@ Veja abaixo uma prévia do design da aplicação:
 
 | **Desktop** | **Mobile** |
 |-------------|------------|
-| ![Desktop Preview](https://via.placeholder.com/400x250) | ![Mobile Preview](https://via.placeholder.com/200x400) |
+| ![Desktop Preview]([https://via.placeholder.com/400x250](https://picsum.photos/1080/720?random=4)) | ![Mobile Preview]([https://via.placeholder.com/200x400](https://picsum.photos/1080/720?random=4)) |
 
 ---
 
