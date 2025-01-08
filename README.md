@@ -32,7 +32,7 @@ Veja abaixo uma prévia do design da aplicação:
 
 | **Desktop** | **Mobile** |
 |-------------|------------|
-| ![Desktop Preview]([https://via.placeholder.com/400x250](https://picsum.photos/1080/720?random=4)) | ![Mobile Preview]([https://via.placeholder.com/200x400](https://picsum.photos/1080/720?random=4)) |
+| ![Desktop Preview]([https://picsum.photos/1080/720?random=4]) | ![Mobile Preview]([(https://picsum.photos/200/400?random=4)]) |
 
 ---
 
