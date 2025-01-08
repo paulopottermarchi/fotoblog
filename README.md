@@ -28,16 +28,6 @@ Bem-vindo ao **Fotoblog**, um site incrível para explorar e compartilhar imagen
 
 ---
 
-## 🎨 Layout
-
-Veja abaixo uma prévia do design da aplicação:
-
-| **Desktop** | **Mobile** |
-|-------------|------------|
-| ![Desktop Preview]([https://picsum.photos/1080/720?random=4]) | ![Mobile Preview]([(https://picsum.photos/200/400?random=4)]) |
-
----
-
 ## 🚀 Como Rodar o Projeto
 
 Siga os passos abaixo para rodar o projeto em sua máquina:
