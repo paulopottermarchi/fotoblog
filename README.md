@@ -1,5 +1,3 @@
-# fotoblog
-
 # 📸 Fotoblog
 
 Bem-vindo ao **Fotoblog**, um site incrível para explorar e compartilhar imagens de alta qualidade! 🖼️✨
