@@ -5,6 +5,8 @@
 Bem-vindo ao **Fotoblog**, um site incrível para explorar e compartilhar imagens de alta qualidade! 🖼️✨
 
 > Um projeto desenvolvido para aprimorar habilidades em **HTML**, **CSS** e **JavaScript**, com integração a APIs de imagens.
+
+
 >Link: https://fotoblog-lac.vercel.app
 
 ---
