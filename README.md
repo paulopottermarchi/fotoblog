@@ -1,42 +1,42 @@
 # 📸 Fotoblog
 
-Bem-vindo ao **Fotoblog**, um site incrível para explorar e compartilhar imagens de alta qualidade! 🖼️✨
+Welcome to **Fotoblog**, an amazing website to explore and share high-quality images! 🖼️✨
 
-> Um projeto desenvolvido para aprimorar habilidades em **HTML**, **CSS** e **JavaScript**, com integração a APIs de imagens.
+> A project developed to improve skills in **HTML**, **CSS**, and **JavaScript**, with integration to image APIs.
 
-
->Link: https://fotoblog-lac.vercel.app
-
----
-
-## 🌟 Funcionalidades
-
-- 📂 **Galeria interativa:** Explore imagens organizadas por temas e coleções.
-- 🎨 **Design responsivo:** Experiência otimizada para desktop e mobile.
-- 🚀 **Integração com APIs:** Utilize serviços como Unsplash ou Lorem Picsum.
+> Live demo: https://fotoblog-lac.vercel.app
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🌟 Features
 
-- **HTML5:** Estruturação semântica da aplicação.
-- **CSS3:** Estilização com foco em design moderno.
-- **JavaScript:** Funcionalidades dinâmicas.
-- **API de Imagens:** Consumo de dados via endpoints de imagens.
+- 📂 **Interactive Gallery:** Browse images organized by themes and collections.
+- 🎨 **Responsive Design:** Optimized experience for both desktop and mobile devices.
+- 🚀 **API Integration:** Uses services like Unsplash or Lorem Picsum.
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## 🛠️ Technologies Used
 
-Siga os passos abaixo para rodar o projeto em sua máquina:
+- **HTML5:** Semantic structure of the application.
+- **CSS3:** Styling focused on modern design.
+- **JavaScript:** Dynamic features and interactions.
+- **Image API:** Fetches data from image endpoints.
 
-### Pré-requisitos
-- Ter o **Git** instalado.
-- Um navegador atualizado.
-- Opcional: **Live Server** para execução local.
+---
 
-### Passos
-1. Clone o repositório:
+## 🚀 How to Run the Project
+
+Follow the steps below to run the project on your machine:
+
+### Prerequisites
+
+- Git installed on your system.
+- A modern web browser.
+- Optional: **Live Server** extension for local execution.
+
+### Steps
+
+1. Clone the repository:
    ```bash
-   git clone https://github.com/seu-usuario/fotoblog.git
-
+   git clone https://github.com/your-username/fotoblog.git
